@@ -1,0 +1,10 @@
+body{
+    background-color:darkslategray;
+    font: 20px/1.5 "Arial", sans-serif;
+    color:khaki
+}
+
+header{
+    text-align: center;
+    font: 30px/1.5 "Arial", sans-serif;
+}
